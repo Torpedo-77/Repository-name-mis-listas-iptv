@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz,https://raw.githubusercontent.com/iptv-org/epg/master/guides/argentina.com/epg.xml"
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/SEAq1Zo.png" group-title="CINE & SERIES", SERIES | AXN
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="ARGENTINA", AR | Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="ARGENTINA", AR | A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", AR | El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", AR | Canal Siete
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&extension=m3u8
+
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="ARGENTINA", AR | NET TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal"
+tvg-logo=" "
+group-title="Cine",Cinecanal HD
+TU_LINK_CINECANAL
+
+#EXTINF:-1 tvg-id="HBO"
+tvg-logo=" "
+group-title="Cine",HBO HD
+TU_LINK_HBO
+
+#EXTINF:-1 tvg-id="Cinemax" group-title="Cine",Cinemax HD
+TU_LINK_CINEMAX
+
+#EXTINF:-1 tvg-id="TNT" group-title="Cine",TNT HD
+TU_LINK_TNT
+
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Dibujos",Disney Channel
+TU_LINK_DISNEY
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Dibujos",Cartoon Network
+TU_LINK_CARTOON
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Dibujos",Nickelodeon
+TU_LINK_NICK
+
+#EXTINF:-1 tvg-id="Disney Junior" group-title="Dibujos",Disney Junior
+TU_LINK_JUNIOR
+
