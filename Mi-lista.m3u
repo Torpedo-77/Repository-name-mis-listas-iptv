@@ -6,6 +6,21 @@ https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://i.imgur.com/qXJt9em.png" group-title="DEPORTES", AR | ESPN
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090640&extension=m3u8
 
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://i.imgur.com/36Lna7v.png" group-title="DEPORTES", AR | ESPN 2
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090695&extension=m3u8
+
+#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://images.open-epg.com/16782312.png" group-title="DEPORTES", AR | Fox Sports 2
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090678&extension=m3u8
+
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DSPORTS (PREMIUM)", DTV | DSports
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090674&extension=m3u8
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DSPORTS (PREMIUM)", DTV | DSports+
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090676&extension=m3u8
+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DSPORTS (PREMIUM)", DTV | DSports 2
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090675&extension=m3u8
+
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", AR | TNT Sports
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
 
@@ -57,6 +72,15 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090659&exte
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://i.imgur.com/VhxYQBI.png" group-title="HBO (PREMIUM)", HBO | HBO Family
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090658&extension=m3u8
 
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://i.imgur.com/tzQ1bln.png" group-title="HBO (PREMIUM)", HBO | HBO Pop
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090673&extension=m3u8
+
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://i.imgur.com/Tp7Um8p.png" group-title="HBO (PREMIUM)", HBO | HBO Xtreme
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090689&extension=m3u8
+
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://i.imgur.com/qDcQFGf.png" group-title="HBO (PREMIUM)", HBO | HBO Mundi
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090688&extension=m3u8
+
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="https://i.imgur.com/XphkcEm.png" group-title="HBO (PREMIUM)", HBO | HBO Signature
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090660&extension=m3u8
 
@@ -69,6 +93,8 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/188.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/gjipdhn.png" group-title="CINE & SERIES", CINE | FX
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090653&extension=m3u8
 
+#EXTINF:-1 tvg-id="662" tvg-logo="https://i.imgur.com/Cb2W5QY.png" group-title="CINE & SERIES", CINE | Studio Universal
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090683&extension=m3u8
 #EXTINF:-1 tvg-id="108mvstr.pe" tvg-logo="https://i.imgur.com/Oif9M4Q.png" group-title="CINE & SERIES", CINE | Star Channel
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090650&extension=m3u8
 
@@ -91,7 +117,7 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090634&exte
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090631&extension=m3u8
 
 #EXTINF:-1 tvg-id="308dtv.ar" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", AR | Nickelodeon
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/728.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090670&extension=m3u8
 
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://i.imgur.com/sZ71GF7.png" group-title="KIDS", KIDS | Disney Jr
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
