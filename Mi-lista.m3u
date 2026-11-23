@@ -15,14 +15,23 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="NOTICIAS", AR | A24
 https://embedxtream.com/stream.php/stream/1163
 
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="ARGENTINA", AR | Crónica
+http://starlatino.tv:8000/56999291719C/9XgDr9KALRjH/490473
+
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", AR | El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1172.m3u8
 
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/B01Sg94.png" group-title="ARGENTINA", AR | El Nueve
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/353.m3u8
+
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", AR | Canal Siete
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&extension=m3u8
+
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://i.imgur.com/UsEdkaO.png" group-title="ARGENTINA", AR | America TV
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1163.m3u8
 
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="NOTICIAS", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
