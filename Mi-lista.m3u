@@ -24,8 +24,14 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1172.m3u8
 
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090562&extension=m3u8
+
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/B01Sg94.png" group-title="ARGENTINA", AR | El Nueve
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/353.m3u8
+
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/B01Sg94.png" group-title="ARGENTINA", AR | El Nueve
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090563&extension=m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", AR | Canal Siete
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&extension=m3u8
@@ -51,18 +57,18 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/196.m3u8
 #EXTINF:-1 tvg-id="201dtv.ar" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", AR | Cinecanal
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/188.m3u8
 
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", AR | TNT
+#EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", AR | TNT
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/926.m3u8
 
-#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", AR | Disney Channel
-TU_LINK_DISNEY
+#EXTINF:-1 tvg-id="312dtv.ar" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", AR | Disney Channel
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/280.m3u8
 
 #EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", AR | Cartoon Network
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
 
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS",AR | Nickelodeon
+#EXTINF:-1 tvg-id="308dtv.ar" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", AR | Nickelodeon
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/728.m3u8
 
-#EXTINF:-1 tvg-id="Disney Junior" group-title="Dibujos",Disney Junior
-TU_LINK_JUNIOR
+#EXTINF:-1 tvg-id="Disney Junior" group-title="KIDS", AR | Disney Junior
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
 
