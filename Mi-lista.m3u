@@ -29,10 +29,8 @@ tvg-logo=" "
 group-title="Cine",Cinecanal HD
 TU_LINK_CINECANAL
 
-#EXTINF:-1 tvg-id="HBO"
-tvg-logo=" "
-group-title="Cine",HBO HD
-TU_LINK_HBO
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/512.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax" group-title="Cine",Cinemax HD
 TU_LINK_CINEMAX
