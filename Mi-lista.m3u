@@ -27,19 +27,19 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&exte
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="NOTICIAS", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="CINE & SERIES", AR | HBO
+#EXTINF:-1 tvg-id="524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="CINE & SERIES", AR | HBO
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/527.m3u8
 
-#EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="CINE & SERIES", AR | HBO 2
+#EXTINF:-1 tvg-id="525dtv.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="CINE & SERIES", AR | HBO 2
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/520.m3u8
 
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://i.imgur.com/TQjOeKO.png" group-title="CINE & SERIES", AR | HBO Plus
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/534.m3u8
 
-#EXTINF:-1 tvg-id="1509dtv.ar" tvg-logo="https://i.imgur.com/fGXoQey.png" group-title="CINE & SERIES", AR | Cinemax
+#EXTINF:-1 tvg-id="1532dtv.ar" tvg-logo="https://i.imgur.com/fGXoQey.png" group-title="CINE & SERIES", AR | Cinemax
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/196.m3u8
 
-#EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", AR | Cinecanal
+#EXTINF:-1 tvg-id="1201dtv.ar" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", AR | Cinecanal
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/188.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", AR | TNT
