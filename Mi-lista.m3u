@@ -43,8 +43,8 @@ TU_LINK_TNT
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Dibujos",Disney Channel
 TU_LINK_DISNEY
 
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Dibujos",Cartoon Network
-TU_LINK_CARTOON
+#EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", KIDS | Cartoon Network
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Dibujos",Nickelodeon
 TU_LINK_NICK
