@@ -24,10 +24,8 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&exte
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="ARGENTINA", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal"
-tvg-logo=" "
-group-title="Cine",Cinecanal HD
-TU_LINK_CINECANAL
+#EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", CINE | Cinecanal
+https://streaming.onnethn.com/CINECANAL_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/512.m3u8
