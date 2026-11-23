@@ -18,7 +18,7 @@ https://embedxtream.com/stream.php/stream/1163
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", AR | El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar"| Telefe" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
+#EXTINF:-1 tvg-id="Telefe.ar "tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1172.m3u8
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", AR | Canal Siete
