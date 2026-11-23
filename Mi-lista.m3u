@@ -27,11 +27,11 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", CINE | Cinecanal
 https://streaming.onnethn.com/CINECANAL_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1524dtv" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
+#EXTINF:-1 tvg-id="1524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/512.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax" group-title="Cine",Cinemax HD
-TU_LINK_CINEMAX
+#EXTINF:-1 tvg-id="1509dtv.ar" tvg-logo="https://i.imgur.com/fGXoQey.png" group-title="CINE & SERIES", CINE | Cinemax
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="Cine",TNT HD
 TU_LINK_TNT
