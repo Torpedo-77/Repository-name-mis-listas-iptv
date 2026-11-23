@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://i.imgur.com/qXJt9em.png" group-title="DEPORTES", AR | ESPN
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090640&extension=m3u8
+
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", AR | TNT Sports
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
 
@@ -43,13 +46,19 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1163.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="CINE & SERIES", AR | HBO
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/527.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090656&extension=m3u8
 
 #EXTINF:-1 tvg-id="525dtv.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="CINE & SERIES", AR | HBO 2
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/520.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090657&extension=m3u8
 
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://i.imgur.com/TQjOeKO.png" group-title="CINE & SERIES", AR | HBO Plus
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/534.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090659&extension=m3u8
+
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://i.imgur.com/VhxYQBI.png" group-title="HBO (PREMIUM)", HBO | HBO Family
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090658&extension=m3u8
+
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="https://i.imgur.com/XphkcEm.png" group-title="HBO (PREMIUM)", HBO | HBO Signature
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090660&extension=m3u8
 
 #EXTINF:-1 tvg-id="532dtv.ar" tvg-logo="https://i.imgur.com/fGXoQey.png" group-title="CINE & SERIES", AR | Cinemax
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/196.m3u8
@@ -57,14 +66,29 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/196.m3u8
 #EXTINF:-1 tvg-id="201dtv.ar" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", AR | Cinecanal
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/188.m3u8
 
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/gjipdhn.png" group-title="CINE & SERIES", CINE | FX
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090653&extension=m3u8
+
+#EXTINF:-1 tvg-id="108mvstr.pe" tvg-logo="https://i.imgur.com/Oif9M4Q.png" group-title="CINE & SERIES", CINE | Star Channel
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090650&extension=m3u8
+
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", AR | TNT
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/926.m3u8
 
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/mHL9aK8.png" group-title="CINE & SERIES", SERIES | TNT Series
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090651&extension=m3u8
+
+#EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://i.imgur.com/qLTp2jn.png" group-title="CINE & SERIES", SERIES | Universal TV
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090647&extension=m3u8
+
+#EXTINF:-1 tvg-id="1574dtv.cl" tvg-logo="https://i.imgur.com/XEk5oMR.png" group-title="UNIVERSAL+ (PREMIUM)", U+ | Universal Crime
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090648&extension=m3u8
+
 #EXTINF:-1 tvg-id="312dtv.ar" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", AR | Disney Channel
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/280.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090634&extension=m3u8
 
 #EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", AR | Cartoon Network
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090631&extension=m3u8
 
 #EXTINF:-1 tvg-id="308dtv.ar" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", AR | Nickelodeon
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/728.m3u8
