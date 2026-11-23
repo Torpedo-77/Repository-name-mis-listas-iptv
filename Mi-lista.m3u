@@ -6,48 +6,54 @@ https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", AR | TNT Sports
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
 
-#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/SEAq1Zo.png" group-title="CINE & SERIES", SERIES | AXN
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/SEAq1Zo.png" group-title="CINE & SERIES", AR | AXN
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="ARGENTINA", AR | Canal 26
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="NOTICIAS", AR | Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="ARGENTINA", AR | A24
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="NOTICIAS", AR | A24
 https://embedxtream.com/stream.php/stream/1163
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", AR | El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="AR | Telefe" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1172.m3u8
+
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", AR | Canal Siete
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&extension=m3u8
 
-#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="ARGENTINA", AR | NET TV
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="NOTICIAS", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", CINE | Cinecanal
-https://streaming.onnethn.com/CINECANAL_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
+#EXTINF:-1 tvg-id="1524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="CINE & SERIES", AR | HBO
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/527.m3u8
 
-#EXTINF:-1 tvg-id="1509dtv.ar" tvg-logo="https://i.imgur.com/fGXoQey.png" group-title="CINE & SERIES", CINE | Cinemax
-https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="CINE & SERIES", AR | HBO 2
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/520.m3u8
 
-#EXTINF:-1 tvg-id="TNT" group-title="Cine",TNT HD
-TU_LINK_TNT
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://i.imgur.com/TQjOeKO.png" group-title="CINE & SERIES", AR | HBO Plus
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/534.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Dibujos",Disney Channel
+#EXTINF:-1 tvg-id="1509dtv.ar" tvg-logo="https://i.imgur.com/fGXoQey.png" group-title="CINE & SERIES", AR | Cinemax
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/196.m3u8
+
+#EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://i.imgur.com/GK1GcKl.png" group-title="CINE & SERIES", AR | Cinecanal
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/188.m3u8
+
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", AR | TNT
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/926.m3u8
+
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", AR | Disney Channel
 TU_LINK_DISNEY
 
-#EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", KIDS | Cartoon Network
+#EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", AR | Cartoon Network
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
 
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", KIDS | Nickelodeon
-
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS",AR | Nickelodeon
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/728.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior" group-title="Dibujos",Disney Junior
 TU_LINK_JUNIOR
-
-#EXTINF:-1 tvg-id="hbo-2.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="HBO (PREMIUM)", HBO | HBO 2
-http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090657&extension=ts
 
