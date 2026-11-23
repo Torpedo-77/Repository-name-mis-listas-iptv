@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", AR | TNT Sports
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/934.m3u8
+
 #EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/SEAq1Zo.png" group-title="CINE & SERIES", SERIES | AXN
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 
