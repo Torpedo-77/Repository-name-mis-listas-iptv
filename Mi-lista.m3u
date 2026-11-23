@@ -16,7 +16,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://embedxtream.com/stream.php/stream/1163
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="ARGENTINA", AR | Crónica
-http://starlatino.tv:8000/56999291719C/9XgDr9KALRjH/490473
+http://139.59.227.20:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", AR | El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
