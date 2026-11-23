@@ -45,13 +45,13 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1163.m3u8
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="NOTICIAS", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="CINE & SERIES", AR | HBO
+#EXTINF:-1 tvg-id="524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090656&extension=m3u8
 
-#EXTINF:-1 tvg-id="525dtv.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="CINE & SERIES", AR | HBO 2
+#EXTINF:-1 tvg-id="525dtv.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="HBO (PREMIUM)", HBO | HBO 2
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090657&extension=m3u8
 
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://i.imgur.com/TQjOeKO.png" group-title="CINE & SERIES", AR | HBO Plus
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://i.imgur.com/TQjOeKO.png" group-title="HBO (PREMIUM)", HBO | HBO Plus
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090659&extension=m3u8
 
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://i.imgur.com/VhxYQBI.png" group-title="HBO (PREMIUM)", HBO | HBO Family
