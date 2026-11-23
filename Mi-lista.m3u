@@ -42,9 +42,12 @@ TU_LINK_DISNEY
 #EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", KIDS | Cartoon Network
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/128.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Dibujos",Nickelodeon
-TU_LINK_NICK
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", KIDS | Nickelodeon
+
 
 #EXTINF:-1 tvg-id="Disney Junior" group-title="Dibujos",Disney Junior
 TU_LINK_JUNIOR
+
+#EXTINF:-1 tvg-id="hbo-2.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="HBO (PREMIUM)", HBO | HBO 2
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090657&extension=ts
 
