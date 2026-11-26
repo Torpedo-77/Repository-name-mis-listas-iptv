@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="553.ar" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-id="tycsoortsfan.ar" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports
+#EXTINF:-1 tvg-id="tycsoortsfan.ar" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports Fan
 https://streams2.sofast.tv/ptnr-TestDirect/genre-Sports/lang-Spanish/ctgr-Sport/title-TYC-SPORTS-LATMA/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://i.imgur.com/qXJt9em.png" group-title="DEPORTES", AR | ESPN
@@ -63,7 +63,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1163.m3u8
 #EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="NOTICIAS", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="señal.provincial.ar" tvg-logo="https://i.postimg.cc/3N0mzmZq/IMG-fb920aa1-5a98-446a-b626-cb1df99be571.jpg" group-title="ARGENTINA", AR | Provincial
+EXTINF:-1 tvg-id="señalprovincial.ar" tvg-logo="https://i.postimg.cc/3N0mzmZq/IMG-fb920aa1-5a98-446a-b626-cb1df99be571.jpg" group-title="Noticias", AR | Provincial
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/594.m3u8
 
 
