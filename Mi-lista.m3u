@@ -66,6 +66,9 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="524dtv.ar" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090656&extension=m3u8
 
+#EXTINF:-1 tvg-id="520" tvg-logo="http://i.tvcluboficial.com/hbo2.png" group-title="HD",HBO 2 HD
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/520.m3u8
+
 #EXTINF:-1 tvg-id="525dtv.ar" tvg-logo="https://i.imgur.com/w6kLONX.png" group-title="HBO (PREMIUM)", HBO | HBO 2
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090657&extension=m3u8
 
@@ -126,8 +129,8 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090670&exte
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://i.imgur.com/sZ71GF7.png" group-title="KIDS", KIDS | Disney Jr
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/284.m3u8
 
-#EXTINF:-1 tvg-id="607" tvg-logo="http://i.tvcluboficial.com/247.png" group-title="24/7",Las Aventuras de Tom Sawyer 24/7
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/607.m3u8
+#EXTINF:-1 tvg-id="940" tvg-logo="http://i.tvcluboficial.com/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8
 
 #EXTINF:-1 tvg-id="1180" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine 2026
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1180.m3u8
