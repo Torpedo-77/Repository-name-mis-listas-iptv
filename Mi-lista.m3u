@@ -117,6 +117,9 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090647&exte
 #EXTINF:-1 tvg-id="1574dtv.cl" tvg-logo="https://i.imgur.com/XEk5oMR.png" group-title="UNIVERSAL+ (PREMIUM)", U+ | Universal Crime
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090648&extension=m3u8
 
+#EXTINF:-1 tvg-id="996" tvg-logo="http://i.tvcluboficial.com/universal_crime.png" group-title="Entretenimiento",Universal Crime HD
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/996.m3u8
+
 #EXTINF:-1 tvg-id="312dtv.ar" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", AR | Disney Channel
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090634&extension=m3u8
 
